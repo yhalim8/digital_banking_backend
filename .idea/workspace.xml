@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22b33e0b-b14f-4b00-af37-f0e516bb141f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/security/SecurityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/dtos/AccountOperationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/dtos/AccountOperationDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/dtos/CustomerDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/dtos/CustomerDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/AccountOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/AccountOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/CurrentAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/entities/SavingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/security/SecurityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/security/SecurityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/web/CustomerRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sid/ebankingbackend/web/CustomerRestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +64,7 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "bc2ebe59955ccb465943d5f3a2963ea4",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -91,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689498779228</updated>
       <workItem from="1689498781057" duration="8950000" />
+      <workItem from="1690043045491" duration="2516000" />
     </task>
     <servers />
   </component>
